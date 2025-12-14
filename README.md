@@ -29,9 +29,9 @@ Tech Stack
 
 Installation
 
-1. Clone the repository
+1. Clone the repository https://github.com/Faishal9097/gitgrade_app
 
-git clone https://github.com/your-username/gitgrade-local-analyzer.git
+git clone 
 cd gitgrade-local-analyzer
 
 2. Create a virtual environment
