@@ -44,7 +44,7 @@ Activate the environment:
 
 3. Install dependencies
 
-pip install -r requirements.txt
+pip install streamlit gitpython lizard langchain langchain-openai pandas python-dotenv plotly shutil
 
 
 Running the Application
