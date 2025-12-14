@@ -1,0 +1,11 @@
+gitgrade-local-analyzer/
+│
+├── analyzer.py
+├── ai_agent.py
+├── app.py
+│
+├── requirements.txt
+├── .env.example
+├── .gitignore
+├── README.md
+└── LICENSE
